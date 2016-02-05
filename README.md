@@ -15,6 +15,7 @@ See [your demo video title here] (https://link_to_your_video)
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 <img src="screenshots/process1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/process1.5.png" height="400" alt="Screenshot"/>
 <img src="screenshots/process2.png" height="400" alt="Screenshot"/>
 <img src="screenshots/process3.png" height="400" alt="Screenshot"/>
 <img src="screenshots/process4.png" height="400" alt="Screenshot"/>
