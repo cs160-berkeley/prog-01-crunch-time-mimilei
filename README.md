@@ -31,7 +31,7 @@ Michelle Chang ([michang@berkeley.edu](mailto:michang@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See the [CrunchTime Demo] (https://youtu.be/1kC4E4bb-9c) here.
 
 ## Screenshots
 
